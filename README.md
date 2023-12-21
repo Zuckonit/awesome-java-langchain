@@ -2,6 +2,11 @@
 java langchain awesome list
 
 
+# java-langchain
+https://github.com/Starcloud-Cloud/java-langchain
+
+Java-langchain: 一个Java 8+的LangChain实现。在(企业)Java环境中构建强大的基于LLM的应用程序。同时包含了详细的Java入门的LLM学习课程。
+
 
 # langtorch
 https://github.com/Knowly-ai/langtorch
