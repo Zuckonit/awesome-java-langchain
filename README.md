@@ -1,6 +1,13 @@
 # awesome-java-langchain
 java langchain awesome list
 
+# lightchain
+https://github.com/ivan-digital/lightchain
+
+The LightChain is a framework for developing chat assistant applications. At its core, LightChain provides essential libraries, interfaces, and tools to interact with language models and parse their outputs. Crafted to support Java 9, the framework simplifies tasks such as prompt engineering, content management, and routing of execution flows.
+
+
+
 
 # java-langchain
 https://github.com/Starcloud-Cloud/java-langchain
